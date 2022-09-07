@@ -2,4 +2,3 @@
 학번: 2021180034
 성적: 100
 hello
-afadfasdfdaa
